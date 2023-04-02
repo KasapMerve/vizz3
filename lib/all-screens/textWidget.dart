@@ -48,7 +48,7 @@ class _TextWidgetState extends State<TextWidget> {
                         offset: Offset(0, 9),
                         blurRadius: 120)
                   ],
-                  color: Color.fromRGBO(51, 47, 51, 1),
+                  color: Color.fromRGBO(81, 47, 51, 1),
                 ),
                 padding: const EdgeInsets.symmetric(horizontal: 50, vertical: 10),
                 child: Row(
